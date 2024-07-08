@@ -5,6 +5,7 @@ print("all is well")
 print("gobras")
 
 
+print("go goa gonw")
 print("jadu tona ")
 
 
