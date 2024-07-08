@@ -9,8 +9,4 @@ print("jadu tona ")
 
 
 
-prin("statsh 2")
-
-
-# mdsdfjkdsjfjsdjflsdj
 
