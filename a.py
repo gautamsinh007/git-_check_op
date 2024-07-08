@@ -5,9 +5,12 @@ print("all is well")
 print("gobras")
 
 
-# stash check 
+print("jadu tona ")
+
+
 
 prin("statsh 2")
 
 
 # mdsdfjkdsjfjsdjflsdj
+
